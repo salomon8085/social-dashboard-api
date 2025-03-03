@@ -1,0 +1,33 @@
+{
+    "metrics": {
+      "followers": 4500,
+      "engagementRate": "20.9%",
+      "postsThisMonth": 69,
+      "growthRate": "+39.9%"
+    },
+    "posts": [
+      { "id": 1, "title": "Digital Marketing Strategies", "likes": 120, "comments": 45, "shares": 30 }, 
+      { "id": 2, "title": "Best AI Tools", "likes": 55, "comments": 38, "shares": 22 },
+      { "id": 3, "title": "How to Grow on Instagram", "likes": 35, "comments": 25, "shares": 18 },
+      { "id": 4, "title": "Social Media Trends 2025", "likes": 98, "comments": 19, "shares": 15 }
+    ],
+
+    "hashtags": [
+        {
+          "name": "#React",
+          "mentions": [
+            { "date": "2024-02-20", "mentions": 30 },
+            { "date": "2024-02-21", "mentions": 45 },
+            { "date": "2024-02-22", "mentions": 60 }
+          ]
+        },
+        {
+          "name": "#JavaScript",
+          "mentions": [
+            { "date": "2024-02-20", "mentions": 25 },
+            { "date": "2024-02-21", "mentions": 50 },
+            { "date": "2024-02-22", "mentions": 80 }
+          ]
+        }
+      ]
+  }
